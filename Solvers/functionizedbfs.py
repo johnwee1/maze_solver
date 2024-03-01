@@ -202,7 +202,7 @@ class Solver:
     def save_image(self, name="solution.png"):
         self.images[0].save(name)
 
-
+#Documentation
 if __name__ == "__main__":
     a = [
         [1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
